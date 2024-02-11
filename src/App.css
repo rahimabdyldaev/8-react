@@ -1,0 +1,16 @@
+.loader {
+    color: blue;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .empty-basket {
+    color: gray;
+  }
+  
+  .app {
+    text-align: center;
+    margin-top: 50px;
+  }

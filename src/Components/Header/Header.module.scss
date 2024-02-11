@@ -1,0 +1,17 @@
+.header{
+    background: black;
+    margin-bottom: 50px;
+    padding: 10px 0;
+    color: #fff;
+
+    &_logo{
+        color: #fff;
+        font-size: 30px;
+    }
+
+    &_icon{
+        display: flex;
+        align-items: center;
+        font-size: 1.2em;
+    }
+}
